@@ -37,7 +37,6 @@ object RegistryHandler {
         .mapNotNull { it as? IHasItemBlock }
         .map { it.itemBlock }
         .toSet()
-        .onEach { println(it) }
 
     /**
      * Register our list of items.
