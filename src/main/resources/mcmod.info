@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "examplemod",
+    "name": "Example Mod for modern Kotlin + ForgeGradle for 1.12.2",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["orca"],
+    "credits": "Kotlin ForgeGradle template by orca.",
+    "logoFile": "",
+    "screenshots": []
+  }
+]

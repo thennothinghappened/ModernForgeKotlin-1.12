@@ -1,0 +1,3 @@
+#PARSE_ESCAPES
+tile.examplemod.example_block.name=Example Block
+itemGroup.examplemod=Example Mod Tab
